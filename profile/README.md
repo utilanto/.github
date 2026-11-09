@@ -1,12 +1,15 @@
-## Hi there 👋
+# Utilanto 👋
 
-<!--
+Utilanto offers a growing collection of free, browser-based tools for everyday tasks—from text utilities and calculators to image tools.
 
-**Here are some ideas to get you started:**
+🌐 **Use the tools:** [utilanto.com](https://utilanto.com)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Tools are designed to work directly in your browser, so calculations and file processing happen on your device.
+
+## Some of our tools
+
+- Word counter and case converter
+- Loan EMI and age calculators
+- Image compressor
+
+We’re adding more tools over time. Visit the website to explore them all!
