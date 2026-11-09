@@ -1,15 +1,23 @@
-# Utilanto 👋
+# Utilanto
 
-Utilanto offers a growing collection of free, browser-based tools for everyday tasks—from text utilities and calculators to image tools.
+Build faster with elegant, privacy-first tools for everyday digital work.
 
-🌐 **Use the tools:** [utilanto.com](https://utilanto.com)
+Utilanto is a growing collection of free browser-based utilities designed to help people work smarter — from text transformations and calculations to image optimization.
 
-Tools are designed to work directly in your browser, so calculations and file processing happen on your device.
+- No sign-up required
+- Fast and lightweight
+- Works directly in your browser
+- Built for privacy and simplicity
 
-## Some of our tools
+## Tools we offer
 
-- Word counter and case converter
-- Loan EMI and age calculators
-- Image compressor
+- Text utilities
+- Calculators
+- Image tools
+- Productivity-focused utilities
 
-We’re adding more tools over time. Visit the website to explore them all!
+## Explore
+
+[utilanto.com](https://utilanto.com)
+
+We're constantly expanding the toolkit with more useful, free tools.
